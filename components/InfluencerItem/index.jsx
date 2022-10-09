@@ -1,8 +1,8 @@
 import Image from 'next/image'
 import React from 'react'
 import styles from './InfluencerItem.module.css'
-import instagramLogo from '../../public/instagramLogo.png'
-import mapPin from '../../public/mapPin.png'
+import instagramLogo from '../../public/InstagramLogo.png'
+import mapPin from '../../public/MapPin.png'
 import { Draggable } from 'react-beautiful-dnd'
 
 function InfluencerItem({ image, username, count, city, country, ...props }) {
