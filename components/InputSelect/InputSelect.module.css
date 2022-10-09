@@ -1,0 +1,13 @@
+.container {
+  padding: 8px 12px;
+  background: #f8fafb;
+  border: 1px solid #e7ecff;
+  border-radius: 2px;
+  font-family: 'IBM Plex Sans';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 16px;
+  text-align: center;
+  color: #6d728e;
+}

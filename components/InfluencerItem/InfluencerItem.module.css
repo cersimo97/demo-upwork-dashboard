@@ -1,0 +1,40 @@
+.container {
+  width: 100%;
+  margin: 0.25rem 0;
+  padding: 5px;
+  background: #ffffff;
+  border: 0.958466px solid #e9f0fc;
+  border-radius: 4px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 12px;
+  user-select: none;
+}
+
+.primaryText {
+  margin: 0;
+  font-family: 'IBM Plex Sans';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 16px;
+  color: #2d3779;
+}
+
+.secondaryText {
+  margin: 0;
+  font-family: 'IBM Plex Sans';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 16px;
+  color: #9f9fb0;
+}
+
+.flex {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 0.15rem;
+}

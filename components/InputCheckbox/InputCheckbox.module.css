@@ -1,0 +1,9 @@
+.container {
+  font-family: 'IBM Plex Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 12px;
+  color: #7e839f;
+  user-select: none;
+}

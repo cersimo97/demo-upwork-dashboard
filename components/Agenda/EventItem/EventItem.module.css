@@ -1,0 +1,52 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 9.58466px 11.5016px;
+  gap: 6.71px;
+  background: #fcfcfc;
+  border: 0.958466px solid #e9f0fc;
+  border-radius: 4px;
+}
+
+.title {
+  margin: 0;
+  font-family: 'SF Pro Display';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 13.4185px;
+  line-height: 16px;
+  color: #363c48;
+}
+
+.datetime {
+  margin: 0;
+  font-family: 'SF Pro Display';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 11.5016px;
+  line-height: 14px;
+  color: #6f7883;
+}
+
+.green {
+  display: inline-block;
+  margin-right: 0.25rem;
+  background: #29cc39;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+}
+
+.purple {
+  display: inline-block;
+  margin-right: 0.25rem;
+  background: linear-gradient(
+    145.49deg,
+    #696be0 15.12%,
+    rgba(88, 90, 208, 0.94) 84.94%
+  );
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+}

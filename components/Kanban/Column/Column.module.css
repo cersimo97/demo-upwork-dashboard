@@ -1,0 +1,25 @@
+.container {
+  padding: 16px;
+  background: #ffffff;
+  border: 1px solid #e9f0fc;
+  border-radius: 6px;
+}
+
+.title {
+  margin: 0 0 0.75rem 0;
+  font-family: 'IBM Plex Sans';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 18px;
+  color: #2d3779;
+}
+
+.value {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 17px;
+  color: #6d728e;
+}

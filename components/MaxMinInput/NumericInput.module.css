@@ -1,0 +1,35 @@
+.label {
+  height: 32px;
+  padding: 8px;
+  background: #f8fafb;
+  border: 1px solid #e7ecff;
+  border-radius: 0 0 2px 2px;
+  border-right: 1px solid #e7ecff;
+  font-family: 'IBM Plex Sans';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 16px;
+  text-align: center;
+  color: #6d728e;
+}
+
+.input {
+  width: 60px;
+  font-family: 'IBM Plex Sans';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 16px;
+  text-align: center;
+  color: #6d728e;
+  background: #f8fafb;
+  border: 1px solid #e7ecff;
+  border-radius: 2px;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+}
